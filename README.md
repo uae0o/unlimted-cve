@@ -7,6 +7,8 @@ u can easy to load cve from json file or u can search from github
 thre option to download cve
 
 anther tool to load cve from nvd
+
+over 9k cve and exploit
 Installation
 
 Install my-project with
